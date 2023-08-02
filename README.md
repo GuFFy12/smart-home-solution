@@ -1,5 +1,5 @@
 # smart-home-solution
-Tinkoff Contest 
+Tinkoff Contest (150/200)
 
 GitHub: https://github.com/blackav/smart-home-binary
 
